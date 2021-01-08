@@ -1,5 +1,6 @@
 # Object: 30 Days of Code HackerRank
 # Author: Nazmul Hassan
+# Language: Python
 # Date: 06/01/2021
 
 # Day 1
